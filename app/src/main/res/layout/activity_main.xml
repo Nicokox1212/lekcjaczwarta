@@ -26,14 +26,14 @@
         android:layout_marginTop="32dp"
         android:layout_marginBottom="472dp"
         android:text="Android Studio jest Spoko"
-        android:textColor="#F0F0F0."
+        android:textColor="#F0F0F0"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3"
-        app:layout_constraintVertical_bias="0.491" />
+        app:layout_constraintVertical_bias="0.227" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="416dp"
